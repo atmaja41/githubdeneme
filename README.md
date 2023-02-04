@@ -1,4 +1,4 @@
-![Java Logo](javahomework/java.jpg)
+![Java Logo](java.jpg)
 # Java Course
 This repository contains all the projects developed during the Java course. Each project showcases the concepts learned in class and demonstrates the use of Java programming language.
 
