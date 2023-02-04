@@ -13,4 +13,4 @@ This repository contains all the projects developed during the Java course. Each
 2. Import the project into your IDE
 3. Run the project as a Java Application
 
-
+-Thank you kodlama.io
