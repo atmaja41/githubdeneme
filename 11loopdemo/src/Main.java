@@ -16,8 +16,9 @@ public class Main {
 		}
 		System.out.println("Do-While Döngüsü Bitti");
 //Do-While
-		int j = 2;      // kod satır satır ilerlediği için şartı sağlamasa bile bir kere
-					    // çalışır.Şart sağlandığında normal while gibi çalışır.
+		int j = 2;     
+		/* kod satır satır ilerlediği için şartı sağlamasa bile bir kere
+		  çalışır.Şart sağlandığında normal while gibi çalışır.*/
 		do {
 			System.out.println(j);
 			j += 2;
