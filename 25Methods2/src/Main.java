@@ -7,6 +7,7 @@ public class Main {
 		System.out.println(yeniMesaj);
 		int sayi = topla(15, 7);
 		System.out.println(sayi);
+		ekle();
 
 	}
 
