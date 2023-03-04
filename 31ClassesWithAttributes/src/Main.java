@@ -7,7 +7,7 @@ public class Main {
 		product.name = "Laptop";
 		product.description = "Asus Laptop";
 		product.price = 5000;
-		product.stockAmount = 3;
+		product.stockAmount = 4;
 		
 		ProductManager productManager = new ProductManager();
 		productManager.Add(product);
